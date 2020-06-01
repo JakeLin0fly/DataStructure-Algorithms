@@ -6,9 +6,9 @@
 	------
 	
 	* ### 数组
-	* ### [链表](../List)
-	* ### [栈](../Stack)
-	* ### [队列](../Queue)
+	* ### [链表](tree/master/List)
+	* ### [栈](tree/master/Stack)
+	* ### [队列](tree/master/Queue)
 	
 * ### 串
 	

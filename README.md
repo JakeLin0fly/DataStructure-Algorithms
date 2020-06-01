@@ -6,9 +6,9 @@
 	------
 	
 	* ### 数组
-	* ### [链表](tree/master/List)
-	* ### [栈](tree/master/Stack)
-	* ### [队列](tree/master/Queue)
+	* ### [链表](https://github.com/JakeLin0fly/DataStructure-Algorithms/tree/master/List)
+	* ### [栈](https://github.com/JakeLin0fly/DataStructure-Algorithms/tree/master/Stack)
+	* ### [队列](https://github.com/JakeLin0fly/DataStructure-Algorithms/tree/master/Queue)
 	
 * ### 串
 	

@@ -1,4 +1,6 @@
-# StaticLinkList --- 静态链表
+## StaticLinkList --- 静态链表
+
+[toc]
 
 用 ***<font color=red>数组</font>*** 描述的***链表***叫做静态链表。 
 

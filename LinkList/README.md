@@ -1,6 +1,8 @@
-# LinkList --- 链表
+## LinkList --- 链表
 
-***线性表的<font color=red>链式存储结构</font>*** 
+[toc]
+
+线性表的***<font color=red>链式存储结构</font>*** 
 
 **头指针**：链表指向第一个结点的指针，若链表有头结点，则是指向头结点的指针
 

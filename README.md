@@ -11,7 +11,7 @@
 
   * ### 链表
 
-    线性表的***<font color=red>链式存储结构</font>*** 
+    线性表的<font color=red>***链式存储结构*** </font>
 
     * #### [单链表](https://github.com/JakeLin0fly/DataStructure-Algorithms/tree/master/LinkList)
 

@@ -1,4 +1,4 @@
-# Data-Structure-Algorithms
+# Data-Structure
 
 
 * ## 线性表
@@ -60,6 +60,10 @@
 
 
 
+# Algorithms
+
+[Algorithms](https://github.com/JakeLin0fly/Algorithms)
+
 ---
 
-*源码参考：程杰《大话数据结构》*
+*数据结构源码参考：程杰《大话数据结构》*
